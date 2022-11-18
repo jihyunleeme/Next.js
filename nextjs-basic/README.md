@@ -1,9 +1,11 @@
 # Next.js
 
-- [ ] themovivedb.com 회원가입
-- [ ] api key받기
-- [ ] url **_developers.themoviedb.org_**에 가면 api 명세서 확인하기
-- [ ] **Get Popular** api 보고 data fetch하기
+## TODO 리스트
+
+- [x] themovivedb.com 회원가입
+- [x] api key받기
+- [x] url **_[developers.themoviedb.org](https://developers.themoviedb.org/3/getting-started/introduction)_**에 가서 api 명세서 확인하기
+- [x] **MOVIES > Get Popular** api 보고 data fetch하기
   - [ ] async await 적절하게 사용하기
 - [ ] data 화면에 뿌리기
   - [ ] title, image
